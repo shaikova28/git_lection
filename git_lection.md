@@ -6,5 +6,3 @@ git add filename/dirname - добовления изменений в списо
 git status - проверка состояния проекта 
 git commit -m 'comment' - сохранение версии(checkpoint)
 
-
-
