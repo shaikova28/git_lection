@@ -5,4 +5,5 @@ git init - инициализация git системы
 git add filename/dirname - добовления изменений в список для сохранения 
 git status - проверка состояния проекта 
 git commit -m 'comment' - сохранение версии(checkpoint)
-
+git pull — скачать изменения
+git push — отправить изменения
